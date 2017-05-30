@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,400');
+.row {
+    height: 14vh;
+    width: 100%;
+}
+.nav {
+    background: #e0e5e5;
+    position: relative;
+}
+.box {
+    position: absolute;
+    left: 20px;
+    top: 50%;
+    margin-top: -30px;
+    height: 60px;
+    width: 60px;
+    background: #5e85c1;
+}
+.text {
+    min-height: 30vh;
+    background: #fcfcfc;
+    font-family: "Roboto", sans-serif;
+    padding: 50px 30px;
+}
+.blue {
+    background: #5e85c1;
+}
+.cyan {
+    background: #75d8ce;
+}
+.tan {
+    background: #e0f7a5;
+}
+.yellow {
+    background: #f9f622;
+}
