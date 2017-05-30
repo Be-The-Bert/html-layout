@@ -13,12 +13,12 @@
     background: #e8e276;
     position: relative;
 }
-.content {
+/*.content {
     height: 600px;
-}
+}*/
 img {
     position: absolute;
-    left: 0;
+    right: 0;
     bottom: 0;
     width: 100%;
     bottom: 0px;
