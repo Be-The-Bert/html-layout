@@ -1,0 +1,25 @@
+.collumn {
+    height: 100vh;
+    width: 33.33%;
+    float: left;
+}
+.left {
+    background: #3dabe2;
+}
+.middle {
+    background: #67e3e5;
+}
+.right {
+    background: #e8e276;
+    position: relative;
+}
+.content {
+    height: 600px;
+}
+img {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    bottom: 0px;
+}
